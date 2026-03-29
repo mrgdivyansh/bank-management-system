@@ -1,5 +1,3 @@
-# bank-management-system
-
 # 🏦 Bank Management System (GUI + SQLite)
 
 A fully functional **Bank Management System** built using **Python, Tkinter (ttkbootstrap)** and **SQLite**, designed with a modern UI and real-world banking features.
